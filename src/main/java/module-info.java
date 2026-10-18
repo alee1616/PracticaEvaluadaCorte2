@@ -14,4 +14,5 @@ module com.example.practicaevaluadacorte2 {
     exports com.example.practicaevaluadacorte2.model;
     exports com.example.practicaevaluadacorte2.dao;
     exports com.example.practicaevaluadacorte2.database;
+    exports com.example.practicaevaluadacorte2.pruebas;
 }
