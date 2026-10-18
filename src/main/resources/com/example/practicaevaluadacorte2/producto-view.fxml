@@ -27,6 +27,9 @@
         <Label style="-fx-font-weight: bold; -fx-text-fill: #34495E;" text="Stock:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
         <TextField fx:id="txtStock" promptText="0" style="-fx-background-radius: 3; -fx-border-color: #E5E7EB; -fx-border-radius: 3;" GridPane.columnIndex="1" GridPane.rowIndex="2" />
 
+        <Label style="-fx-font-weight: bold; -fx-text-fill: #34495E;" text="ID:" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+        <TextField fx:id="txtId" disable="true" editable="false" promptText="Automático" style="-fx-background-radius: 3; -fx-border-color: #E5E7EB; -fx-border-radius: 3;" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+
         <columnConstraints>
             <ColumnConstraints />
             <ColumnConstraints />
