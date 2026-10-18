@@ -37,3 +37,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+config.properties
+config-prueba.properties
+target/
+.idea/
+*.log
